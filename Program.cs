@@ -9,7 +9,8 @@ namespace csharp_oop
             Shape[] shapes = {
                 new Circle('r', 1),
                 new Circle('b', 2),
-                new Circle('w', 3)
+                new Circle('w', 3),
+                new Square('y', 10)
                 };
 
             foreach (var shape in shapes)
@@ -30,7 +31,7 @@ namespace csharp_oop
             {
                 area += shape.CalculateArea();
             }
-            return 1D;
+            return area;
         }
     }
 }
