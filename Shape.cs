@@ -1,6 +1,6 @@
 namespace csharp_oop{
 
-    public class Shape{
+    abstract  public class Shape{
 
        private  char color;
 
@@ -8,6 +8,9 @@ namespace csharp_oop{
         {
             this.color = color;
         }
+
+
+        abstract public  double CalculateArea();
 
         public override string ToString()
         {
