@@ -1,0 +1,13 @@
+D:\devs\incamp\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.exe
+D:\devs\incamp\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.deps.json
+D:\devs\incamp\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.runtimeconfig.json
+D:\devs\incamp\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.runtimeconfig.dev.json
+D:\devs\incamp\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.dll
+D:\devs\incamp\csharp-oop\bin\Debug\netcoreapp3.1\csharp-oop.pdb
+D:\devs\incamp\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.csprojAssemblyReference.cache
+D:\devs\incamp\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.AssemblyInfoInputs.cache
+D:\devs\incamp\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.AssemblyInfo.cs
+D:\devs\incamp\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.csproj.CoreCompileInputs.cache
+D:\devs\incamp\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.dll
+D:\devs\incamp\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.pdb
+D:\devs\incamp\csharp-oop\obj\Debug\netcoreapp3.1\csharp-oop.genruntimeconfig.cache
